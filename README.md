@@ -7,7 +7,7 @@ A sample of the input csv file is not provided for students' privacy protection.
 Here is a sample txt output file for 2 students:
 
 ```
-260886004-260969793
+260123456-260234567
 
 1C - NP
 2C - NP
